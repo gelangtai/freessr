@@ -8,8 +8,7 @@ SSR节点使用工具：[小火箭下载](https://github.com/shadowsocksr-backup
 
 V2ray节点使用工具：[V2ray电脑客户端下载](https://github.com/2dust/v2rayN/releases/download/3.27/v2rayN-Core.zip)
 
-### 需要[稳定的电脑梯子软件](https://www.textarea.com/mike/yige-diannao-pc-shangneng-yong-de-wending-tizi-zhi-xu-ji-buzhou-jiao-ni-kexue-shangwang-paqiang-zhichi-v2ray-trojan-1566/)的用户请点击
-### 各类[好用的梯子测评](https://www.textarea.com/mike/haoyong-wending-de-pc-tizi-ceping-tuijian-ios-anzhuo-mac-kexue-shangwang-yizhan-gaoding-1466/)请点击
+### 需要免费电脑梯子软件的用户可访问官网：[https://xbsj5209.com/i/ask007](https://xbsj5209.com/i/ask007)
 
 所有ssr节点和V2ray节点不定期更新，取决于有没有空余时间，如果遇到节点暂时无法使用的情况，可以点击访问网站：[免费ssr/V2ray节点获取](https://xbsj4621.fun/i/ems051)，注册登录后拉到页面最底端，有最新的免费节点资源（本贴部分免费节点资源取自该网站）
 
